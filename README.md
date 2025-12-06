@@ -2,6 +2,8 @@
 
 ### Turning OTT Content into Strategic Intelligence
 
+---
+
 ## 📌 Project Mission
 
 Today’s OTT platforms thrive on **data-driven content strategy**.
@@ -95,5 +97,5 @@ This project showcases **business analytics mindset**, not just visualization sk
 Data Analytics | Power BI | Business Intelligence
 
 
-Which ones should I add next? 😄
+
 
