@@ -1,33 +1,40 @@
  # 🎬 Disney+ Hotstar Dashboard — Power BI
 
-# Turning OTT Content into Strategic Intelligence
+### Turning OTT Content into Strategic Intelligence
 
-# 📌 Project Mission
+<p align="center">
+  <img src="disney-hotstar-dashboard.png" width="900">
+</p>
 
-Today’s OTT platforms thrive on data-driven content strategy.
-This project transforms Disney+ Hotstar content data into actionable insights that support decisions such as:
+---
+
+## 📌 Project Mission
+
+Today’s OTT platforms thrive on **data-driven content strategy**.
+This project transforms Disney+ Hotstar content data into **actionable insights** that support decisions such as:
 
 * What type of content attracts viewers?
 * Which genres should be prioritized for future investments?
 * How is the platform evolving across years?
 * Where can catalogue improvements drive better engagement?
 
-This dashboard helps bridge business decisions with analytical evidence 
+This dashboard helps **bridge business decisions with analytical evidence** — something every modern OTT platform relies on.
 
+---
 
-# 🔍 Insight Highlights
+## 🔍 Insight Highlights
 
-📊 473 Total Titles Analyzed
+📊 **473 Total Titles Analyzed**
 
-Movies:75 (16%)
-Series:398 (84%)
+* **Movies:** 75 (16%)
+* **Series:** 398 (84%)
 
-📈 Growth in Digital-First Content
+📈 **Growth in Digital-First Content**
 
-* Rapid spike in releases during 2019–2021
-* Clear shift toward Series-based storytelling
+* Rapid spike in releases during **2019–2021**
+* Clear shift toward **Series-based storytelling**
 
-🎭 *Genre Intelligence**
+🎭 **Genre Intelligence**
 
 * Strong presence of *Action & Adventure*
 * Ability to filter and compare performance by genre
@@ -80,7 +87,7 @@ This project showcases **business analytics mindset**, not just visualization sk
 
 ## 🎯 Key Outcomes
 
-* Strengthened ability to convert raw data into business value**
+* Strengthened ability to **convert raw data into business value**
 * Enhanced proficiency in **Power BI design & DAX modeling**
 * Developed **insight-centric storytelling for decision makers**
 
@@ -92,3 +99,7 @@ This project showcases **business analytics mindset**, not just visualization sk
 
 **Janhavi Patil**
 Data Analytics | Power BI | Business Intelligence
+
+
+Which ones should I add next? 😄
+
