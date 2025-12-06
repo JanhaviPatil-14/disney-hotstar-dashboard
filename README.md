@@ -44,7 +44,7 @@ This dashboard helps **bridge business decisions with analytical evidence** — 
 
 * Explore catalogue by **Genre**, **Duration**, **Directors**, **Title Insights**
 
-> Designed to support **content acquisition strategy**, **catalogue curation**, and **engagement-focused decision making**.
+ Designed to support **content acquisition strategy**, **catalogue curation**, and **engagement-focused decision making**.
 
 ---
 
@@ -87,7 +87,7 @@ This project showcases **business analytics mindset**, not just visualization sk
 * Enhanced proficiency in **Power BI design & DAX modeling**
 * Developed **insight-centric storytelling for decision makers**
 
-> Not just a dashboard — a **strategic asset** for OTT content analytics.
+Not just a dashboard — a **strategic asset** for OTT content analytics.
 
 ---
 
