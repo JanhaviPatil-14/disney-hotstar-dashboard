@@ -2,12 +2,6 @@
 
 ### Turning OTT Content into Strategic Intelligence
 
-<p align="center">
-  <img src="disney-hotstar-dashboard.png" width="900">
-</p>
-
----
-
 ## 📌 Project Mission
 
 Today’s OTT platforms thrive on **data-driven content strategy**.
