@@ -76,7 +76,9 @@ This project showcases **business analytics mindset**, not just visualization sk
 ## 🚀 How to Explore the Dashboard
 
 1️⃣ Download the `.pbix` file
+
 2️⃣ Open with **Power BI Desktop**
+
 3️⃣ Interact with filters to uncover insights hidden in the data
 
 ---
